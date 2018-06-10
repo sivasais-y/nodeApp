@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Node App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siva Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.10",
+    "mongoose": "^5.1.4"
+  },
+  "devDependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5"
+  }
+}
